@@ -1,0 +1,1 @@
+const rivo = 1;
